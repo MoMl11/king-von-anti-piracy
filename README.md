@@ -4,9 +4,8 @@
 
 **Welcome to the King Von Anti-Piracy Virus Repository!**
 
-This is a harmless prank application inspired by TikTok trends. The project is purely for fun and entertainment purposes. Updates will roll out regularly, so stay tuned for new features!
-                                                             
-                                          ![Screenshot (9)](https://github.com/user-attachments/assets/ce18e842-1c6f-4e7d-ad0e-07ab9c5edeb5)
+This is a harmless prank application inspired by TikTok trends. The project is purely for fun and entertainment purposes. Updates will roll out regularly, so stay tuned for new features! 
+                       ![Screenshot (9)](https://github.com/user-attachments/assets/ce18e842-1c6f-4e7d-ad0e-07ab9c5edeb5)
 ---
 
 ## **Features**
