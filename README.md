@@ -11,8 +11,14 @@ This is a harmless prank application inspired by TikTok trends. The project is p
 - Displays flashing text and warning messages for added realism.
 - Plays King Von's tracks randomly to "teach a lesson" about piracy.
 - Includes sound effects and animations for immersion.
-- Completely safe: no files are deleted or harmed.
-- Regular updates with new effects and features.
+- Puplic and Private IP adress in the bottom left
+
+**cooming with updates**
+flashing screen
+fake BSOD
+horror effects
+more viruses
+AND MORE...
 
 ---
 
@@ -25,7 +31,7 @@ This project provides a downloadable folder containing the necessary files to ru
 
 Simply download the folder, keep all files together, and double-click on `King Von.exe` to start the prank.
 
-### Current Effects:
+### Current Effects (V1)
 - **Flashing Screen**: Simulates a system takeover with intense visuals.
 - **Error Messages**: Random pop-up alerts to mimic a piracy warning.
 - **Audio Playback**: Automatically plays King Von's music as part of the "lesson."
@@ -64,10 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## **Contact**
-Follow me on TikTok or GitHub for updates:
-- **TikTok:** [YourTikTokUsername](#)
-- **GitHub:** [YourGitHubProfile](https://github.com/yourusername)
+
 
 ---
 
